@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "761200043623",
+    "project_id": "fcm-codelab-6d53c",
+    "storage_bucket": "fcm-codelab-6d53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761200043623:android:3e0147a6cc628c8786d6c2",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761200043623-l4geeoeheuv3q4066f16mv1pf7h6ad3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkN4JIQH5VqRpBlWiYRl_qM0ZQVeqmEkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761200043623-l4geeoeheuv3q4066f16mv1pf7h6ad3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761200043623:android:8c3747ff539e74ee86d6c2",
+        "android_client_info": {
+          "package_name": "com.mariovaladez.fcmnotifications2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761200043623-l4geeoeheuv3q4066f16mv1pf7h6ad3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkN4JIQH5VqRpBlWiYRl_qM0ZQVeqmEkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761200043623-l4geeoeheuv3q4066f16mv1pf7h6ad3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
